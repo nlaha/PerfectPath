@@ -1,0 +1,37 @@
+﻿  Window.cpp
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(110,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(111,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(205,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(235,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(235,18): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(250,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(251,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Window.cpp(31,103): warning C4244: 'argument': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Window.cpp(31,63): warning C4244: 'argument': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Window.cpp(31,23): warning C4244: 'argument': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Generating code
+  2 of 355 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PerfectPath.vcxproj -> F:\4TBCode\PerfectPath\PerfectPath\x64\Release\PerfectPath.exe

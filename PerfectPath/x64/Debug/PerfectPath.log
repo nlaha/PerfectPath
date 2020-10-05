@@ -1,0 +1,32 @@
+﻿  Window.cpp
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(104,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(105,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(196,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(226,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(226,18): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(241,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Tracer.h(242,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Window.cpp(31,103): warning C4244: 'argument': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Window.cpp(31,63): warning C4244: 'argument': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+F:\4TBCode\PerfectPath\PerfectPath\PerfectPath\Window.cpp(31,23): warning C4244: 'argument': conversion from 'const _Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  PerfectPath.vcxproj -> F:\4TBCode\PerfectPath\PerfectPath\x64\Debug\PerfectPath.exe
